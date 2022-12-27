@@ -1,0 +1,35 @@
+_repo: Goa-and-the-Blue-Mountains-or-Six-months-of-sick-leave_69510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Baker, Frank
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    - Burton, Richard F.
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2022-12-09'
+identifiers:
+  gutenberg: '69510'
+language: en
+pgterms:marc904: https://archive.org/details/goabluemountains00burtrich/page/n9/mode/2up
+pgterms:marc905: 20200605230055burton
+pgterms:marc906: '1851'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United Kingdom: Richard Bentley,1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Goa and the Blue Mountains: or, Six months of sick leave'
+url: http://www.gutenberg.org/ebooks/69510
